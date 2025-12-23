@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|c:\\users\\koyun\\source\\repos\\final_projesi\\final_projesi\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|c:\\users\\koyun\\source\\repos\\final_projesi\\final_projesi\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\uyeeklemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\uyeeklemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\girisekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\girisekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\paketduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\paketduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|C:\\Users\\Koyun\\source\\repos\\Final_projesi\\final_projesi\\uyeeklemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDA1F388-BA19-4539-AEB6-65A76086AE06}|Final_projesi\\Final_projesi.csproj|solutionrelative:final_projesi\\uyeeklemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "girisEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\girisEkrani.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.cs",
+              "RelativeToolTip": "Final_projesi\\girisEkrani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:47:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\Program.cs",
+              "RelativeToolTip": "Final_projesi\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwMkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:28:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uyeBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeBilgileri.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\uyeBilgileri.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeBilgileri.cs",
+              "RelativeToolTip": "Final_projesi\\uyeBilgileri.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAmwMAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:40:04.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "yonetimPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\yonetimPaneli.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\yonetimPaneli.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\yonetimPaneli.cs",
+              "RelativeToolTip": "Final_projesi\\yonetimPaneli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:03:48.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uyeEklemeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeEklemeForm.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\uyeEklemeForm.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeEklemeForm.cs",
+              "RelativeToolTip": "Final_projesi\\uyeEklemeForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:04:04.402Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6c18ad4e-17f9-4794-b00b-c514ffcdc73c",
+        "Display": 0,
+        "X": 392,
+        "Y": 98,
+        "Width": 1404,
+        "Height": 957,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "girisEkrani.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.Designer.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\girisEkrani.Designer.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.Designer.cs",
+              "RelativeToolTip": "Final_projesi\\girisEkrani.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAD4v00AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:53:56.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "girisEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\girisEkrani.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\girisEkrani.cs [Design]",
+              "RelativeToolTip": "Final_projesi\\girisEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:41:00.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yonetimPaneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\yonetimPaneli.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\yonetimPaneli.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\yonetimPaneli.cs [Design]",
+              "RelativeToolTip": "Final_projesi\\yonetimPaneli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:05:57.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "uyeBilgileri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeBilgileri.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\uyeBilgileri.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeBilgileri.cs [Design]",
+              "RelativeToolTip": "Final_projesi\\uyeBilgileri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:30:12.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaketDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\PaketDuzenle.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\PaketDuzenle.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\PaketDuzenle.cs [Design]",
+              "RelativeToolTip": "Final_projesi\\PaketDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:30:41.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "uyeEklemeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeEklemeForm.cs",
+              "RelativeDocumentMoniker": "Final_projesi\\uyeEklemeForm.cs",
+              "ToolTip": "C:\\Users\\Koyun\\source\\repos\\Final_projesi\\Final_projesi\\uyeEklemeForm.cs [Design]",
+              "RelativeToolTip": "Final_projesi\\uyeEklemeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:11:50.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
